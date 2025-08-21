@@ -5,7 +5,7 @@ work_dir    = 'work_dirs/'
 # Environment setting
 python_path = 'python'
 port        = 29500
-gpus        = 8
+gpus        = 2
 
 # Data setting
 oracle_path         = 'data/VOC0712/annotations/trainval_0712.json'
